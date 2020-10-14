@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### I'm from Argentina.
-### Chief Technology Officer of _**File.Developers**_, It is a project that grows daily
+### Chief Technology Officer of _**File.Developers**_, It is a project that grows daily. <a href="https://discord.gg/FeTP4PE">Click To Join</a>
 
 #### Learning to Code in: <br /> Python 🐍 <br /> C++ 💫 <br /> Java ✅
 
