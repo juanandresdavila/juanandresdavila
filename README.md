@@ -21,9 +21,9 @@ const zad4y = {
 ***********************************
 ## Social Medias:
 
-####<a href="https://twitter.com/zad4y">Twitter</a>
-####<a href="https://www.facebook.com/zaday.zaday.739/">Facebook</a>
-####<a href="https://www.instagram.com/zad4ytv/">Instagram</a>
+####<a href="https://twitter.com/zad4y">Twitter</a> <br />
+####<a href="https://www.facebook.com/zaday.zaday.739/">Facebook</a> <br />
+####<a href="https://www.instagram.com/zad4ytv/">Instagram</a> <br />
 #### Mail: **zad4ytv@gmail.com**
 
 ***********************************
