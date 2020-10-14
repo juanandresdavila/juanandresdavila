@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### I'm from Argentina.
-### Chief Technology Officer of _**File.Developers**_
+### Chief Technology Officer of _**File.Developers**_, It is a project that grows daily
 
 #### Learning to Code in: <br /> Python 🐍 <br /> C++ 💫 <br /> Java ✅
 
