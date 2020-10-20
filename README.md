@@ -9,6 +9,7 @@
 ```js
 const zad4y = {
   Pronouns: "He" | "Him",
+  Meaning: [Ruby, C, C++, C#, Objective-C, JQuery],
   Code: [Javascript, HTML, CSS, PHP, SQL, Python, Lua],
   Tools: [React, Redux, Node, Bootstrap]
 }
