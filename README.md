@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ### I'm from Argentina.
-### Chief Technology Officer of _**File.Developers**_, It is a project that grows daily. <a href="https://discord.gg/FeTP4PE">Click To Join</a>
 
 #### Learning to Code in: <br /> Python 🐍 <br /> C++ 💫 <br /> Java ✅
 
@@ -9,9 +8,9 @@
 ```js
 const zad4y = {
   Pronouns: "He" | "Him",
-  Meaning: [Ruby, C, C++, C#, Objective-C, JQuery],
-  Code: [Javascript, HTML, CSS, PHP, SQL, Python, Lua],
-  Tools: [React, Redux, Node, Bootstrap]
+  Meaning: [Ruby, C, C++, C#, Objective-C, JQuery, Python],
+  Code: [Javascript, HTML, CSS, PHP, SQL, Python, Lua, Node.js],
+  Tools: [React, Redux, Express, MongoDB, MySQL, Bootstrap]
 }
 
 ```
