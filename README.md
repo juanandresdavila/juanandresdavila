@@ -2,14 +2,14 @@
 
 ### I'm from Argentina.
 
-#### Learning to Code in: <br /> Python 🐍 <br /> C++ 💫 <br /> Java ✅
+#### Learning to Code in: C# 💫
 
 
 ```js
 const zad4y = {
   Pronouns: "He" | "Him",
   Meaning: [Ruby, C, C++, C#, Objective-C, JQuery, Python],
-  Code: [Javascript, HTML, CSS, PHP, SQL, Python, Lua, Node.js],
+  Code: [Javascript, HTML, CSS, PHP, SQL, Python, Lua, NodeJS],
   Tools: [React, Redux, Express, MongoDB, MySQL, Bootstrap]
 }
 
