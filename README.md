@@ -8,8 +8,8 @@
 ```js
 const zad4y = {
   Pronouns: "He" | "Him",
-  Meaning: [Ruby, C, C++, C#, Objective-C, JQuery, Python],
-  Code: [Javascript, HTML, CSS, PHP, SQL, Python, Lua, NodeJS],
+  Meaning: [Ruby, C, C++, Objective-C, JQuery, Python],
+  Code: [Javascript, C#, NodeJS, HTML, CSS, PHP, SQL, Python, Lua],
   Tools: [React, Redux, Express, MongoDB, MySQL, Bootstrap]
 }
 
