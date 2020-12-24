@@ -7,10 +7,10 @@
 
 ```js
 const zad4y = {
-  Pronouns: "He" | "Him",
-  Meaning: [Ruby, C, C++, Java],
+  Pronouns: ["He" , "Him"],
+  Meaning: ["Ruby", "C", "C++", "Java"],
   Code: ["Javascript", "C#", "NodeJS", "HTML", "CSS", "PHP", "SQL", "Python", "Lua", "TypeScript"],
-  Tools: [Express, MongoDB, MySQL]
+  Tools: ["Express", "MongoDB", "MySQL"]
 }
 
 ```
