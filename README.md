@@ -19,10 +19,9 @@ const zad4y = {
 
 ***********************************
 ## Social Medias:
-<h4>
+<h3>
 <a href="https://twitter.com/zad4y">Twitter</a> <br />
-<a href="https://www.facebook.com/zaday.zaday.739/">Facebook</a> <br />
-<a href="https://www.instagram.com/zad4ytv/">Instagram</a> <br />
-</h4>
+<a href="https://discord.gg/t7p3bk86md">Discord<a/> <br />
+</h3>
 
 ***********************************
