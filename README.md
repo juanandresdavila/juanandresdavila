@@ -8,10 +8,10 @@
 ```js
 const zad4y = {
   Pronouns: ["He" , "Him"],
-  Code: ["C#", "NodeJS", "HTML", "CSS", "PHP", "SQL", "Python", "Lua", "Java"],
+  Code: ["C#", "JavaScript", "C++", "HTML", "CSS", "Python"],
   Speak: ["English", "Spanish"],
   AnotherLanguages: ["Binary"],
-  Tools: ["Express", "MongoDB", "MySQL", "Electron"]
+  Tools: ["Express", "MongoDB", "MySQL", "Electron", "React"]
 }
 ```
 ***********************************
