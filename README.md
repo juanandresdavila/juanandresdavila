@@ -6,8 +6,8 @@
 
 
 ```js
-const zad4y = {
-  Pronouns: ["He" , "Him"],
+const juan = {
+  Full_Name: "Juan Andres Davila Delgado",
   Code: ["C", "C++", "HTML", "CSS", "Python"],
   Speak: ["English", "Spanish"],
   Tools: ["Express", "MongoDB", "MySQL", "Electron", "React"]
