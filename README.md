@@ -8,7 +8,7 @@
 ```js
 const juan = {
   Full_Name: "Juan Andres Davila Delgado",
-  Code: ["C", "C++", "HTML", "CSS", "Python"],
+  Code: ["C", "Python", "Java", "C++", "HTML", "CSS", ],
   Speak: ["English", "Spanish"],
   Tools: ["Express", "MongoDB", "MySQL", "Electron", "React"]
 }
